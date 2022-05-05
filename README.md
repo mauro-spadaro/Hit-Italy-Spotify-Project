@@ -19,5 +19,5 @@ Before creating descriptive tables and measures ("Descriptive_Measures_HITS.csv"
 
 **4. Model Analysis**
 
-File "220423_Hit Prediction_v03.R" represents our R code used to analyse our data. Results (model measures performances and box plots) can be found in the **Results** folder
+File "220423_Hit Prediction_v03.R" represents our R code used to analyse our data. Results (model measures performances and box plots) can be found in the **Results** folder.
 
