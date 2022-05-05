@@ -13,9 +13,9 @@ The file "GSA_hits.py" represents the code we used to download our hits playlist
 
 We then proceeded in merging the non-hits databases downloaded ("2k_non_hits.csv" and "8k_non_hits.csv", **Databases** folder) via Excel and through the "Database Analysis.R" we deleted duplicates for the TrackIDs. 
 
-Before creating descriptive tables and measures ("Descriptive_Measures_HITS.csv" and "Descriptive_Measures_NO_HITS.csv") we further manually checked the hits database, as 6 songs resulted to be the same but with different TrackIDs. Similarly, we performed a manual analysis of the Non-hits merged database, deleting for duplicates with the same TrackName with Excel. 
+Before creating descriptive tables and measures ("Descriptive_Measures_HITS.xls" and "Descriptive_Measures_NO_HITS.xls") we further manually checked the hits database, as 6 songs resulted to be the same but with different TrackIDs. Similarly, we performed a manual analysis of the Non-hits merged database, deleting for duplicates with the same TrackName with Excel. 
 
-"Audio features Evolution.csv" shows some intesting consideration for the ranked #1 hit songs audio evolution, plotting data through line trends and charts. 
+"Audio features Evolution.xls" shows some intesting consideration for the ranked #1 hit songs audio evolution, plotting data through line trends and charts. 
 
 **4. Model Analysis**
 
